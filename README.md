@@ -31,7 +31,7 @@ jupyter notebook
 ## Models Used
 - Random Forest Regressorr
 - XGBoost Regressor
-- LGVM Regressor
+- LGBM Regressor
 - Log-transformed permeability and Logit transformed saturation for better accuracy
   
 ---
